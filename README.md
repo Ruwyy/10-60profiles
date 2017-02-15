@@ -1,4 +1,4 @@
-# 10-60profiles (WIP)
+# 10-60profiles
 |These are the profiles I will use to level from 10 to 60 on Elysium WoW.|
 |0 Bans so far with these profiles|
 |All of them are tested and should work smoothly, it's still a work in progress so there might be a couple of bugs but I update them often as I am leveling new characters every now and then to test CustomClasses.|
