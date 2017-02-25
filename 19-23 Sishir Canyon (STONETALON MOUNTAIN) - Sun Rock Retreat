@@ -543,6 +543,9 @@
 			<Type>Hotspot</Type>
 		</Hotspot>
 	</Hotspots>
+	<Factions>
+		<Faction>22</Faction>
+	</Factions>
 	<VendorHotspots>
 		<VendorHotspot>
 			<!-- Pos: 55/76 -->
