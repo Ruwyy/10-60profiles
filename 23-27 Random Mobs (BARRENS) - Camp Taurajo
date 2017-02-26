@@ -403,6 +403,14 @@
 			<Type>Hotspot</Type>
 		</Hotspot>
 	</Hotspots>
+	<Factions>
+		<Faction>15</Faction>
+		<Faction>16</Faction>
+		<Faction>14</Faction>
+		<Faction>189</Faction>
+		<Faction>413</Faction>
+		<Faction>38</Faction>
+	</Factions>
 	<VendorHotspots>
 		<VendorHotspot>
 			<!-- Pos: 46/61 -->
