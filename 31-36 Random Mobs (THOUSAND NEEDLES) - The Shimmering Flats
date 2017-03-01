@@ -1222,6 +1222,13 @@
 			<Type>Hotspot</Type>
 		</Hotspot>
 	</Hotspots>
+	<Factions>
+		<Faction>38</Faction>
+		<Faction>413</Faction>
+		<Faction>91</Faction>
+		<Faction>7</Faction>
+		<Faction>49</Faction>
+	</Factions>
 	<VendorHotspots>
 		<VendorHotspot>
 			<!-- Pos: 82/76 -->
